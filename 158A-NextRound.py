@@ -10,4 +10,4 @@ if(participantscorecount[0]>=1 and participantscorecount[0]<=50 and participants
      if(participantscore>=0 and participantscore<=100):
             if(participantscore>=participantscores[participantscorecount[1]-1] and participantscore>0):
                 advancecount=advancecount+1
-  print(advancecount)
+  print(advancecount) 
